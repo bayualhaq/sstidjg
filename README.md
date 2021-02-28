@@ -3,3 +3,5 @@ wget --no-check-certificate "https://raw.githubusercontent.com/bayualhaq/sstidjg
 
 # catatan
 jika mengganti profile atau inject ulang dan lain-lain jangan lupa stop inject (pilih no 3) & disable auto rekonek & auto booting (pilih no 5) terlebih dahulu agar tidak bentrok
+
+# source wegare123
